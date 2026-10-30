@@ -13,9 +13,9 @@ dlVideoOnce: false
 # Whether to keep all downloaded videos or only a single copy
 keepAllVideos: false
 # What to use as the file name template
-fileName: '[${service}] ${showTitle} - S${season}E${episode} [${height}p]'
+fileName: '${showTitle} - S${season}E${episode}'
 # What Audio languages to download
-dubLang: ['jpn']
+dubLang: ['eng']
 # What Subtitle languages to download
 dlsubs: ['all']
 # What language Audio to set as default
